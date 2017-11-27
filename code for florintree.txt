@@ -1,0 +1,43 @@
+<style type="text/css">
+    
+    .th_stock2{
+        width: 95% !important;
+        text-align: left !important;
+        margin-left: 8px !important;        
+    }
+    .th_subject2{
+        width: 30% !important;
+        text-align: left !important;
+    }
+    .th_Analyst{
+        width: 30% !important;      
+    } 
+    .th_remarks{
+        width: 28% !important;      
+    }       
+    .th_status2{
+        width: 30% !important;
+    }
+
+    .th_date2{
+        width: 25% !important;
+        margin-right: 20px !important;        
+    }
+
+    .td_subject2{
+        width:30%!important;
+    } 
+    .td_Analyst{
+        width: 30% !important;      
+    } 
+    .td_remarks{
+        width: 44% !important;      
+    }                  
+    .td_status2{
+        width:43%!important;
+        text-align: center!important;
+    }
+    .td_date2{
+        width:18%!important;
+        text-align: center!important;        
+    } 
